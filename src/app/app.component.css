@@ -1,0 +1,47 @@
+
+body{
+    background: white;
+}
+.header{
+    background-color: rgb(219, 215, 215);
+    width: 100%;
+    height: 70px;
+    border-style: solid;
+}
+.nav{
+    background: rgb(219, 215, 215);
+    width: 100%;
+    height: 70px;
+    border-style: solid;
+}
+
+.main{
+    background: white;
+    width: 100%;
+    height: calc(100vh - 200px);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.section{
+    background: rgb(219, 215, 215);
+    width: 70%;
+    height: 94%;
+    border-style: solid;
+}
+
+.aside{
+    
+    background: rgb(187, 180, 180);
+    width: 25%;
+    height: 94%;
+    border-style: solid;
+}
+
+.footer{
+    background: rgb(219, 215, 215);
+    width: 100%;
+    height: 70px;
+    border-style: solid;
+}
